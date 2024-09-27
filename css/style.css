@@ -34,4 +34,18 @@ body {
     /*border: 1px solid var(--font-color);*/
     box-shadow: 1px 1px 10px var(--shadow-color);
     border-radius: 15px;
+
+    text-align: center;
+}
+
+.container .container-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    text-align: start;
+}
+
+.container .container-list li {
+    list-style: none;
 }
