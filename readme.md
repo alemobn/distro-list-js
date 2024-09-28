@@ -1,4 +1,4 @@
-# Data and Time
+# Distro List
 
 ![Static Badge](https://img.shields.io/badge/made_by-alemobn-0D0C0C)
 ![Static Badge](https://img.shields.io/badge/license-MIT-0D0C0C)
